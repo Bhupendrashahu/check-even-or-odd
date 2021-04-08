@@ -9,7 +9,6 @@ scanf("%d",&n);
 if (n%2==0)
 printf("NUMBER IS EVEN  \n ",n);
 else
-    printf("NUMBER IS ODD
-            \n",n);
+    printf("NUMBER IS ODD \n",n);
     return 0;
 }
